@@ -9,5 +9,5 @@
 ---
 
 ### Certification
-![](img/certificate_ex.png)
+![](img/60134352625828.png)
 
