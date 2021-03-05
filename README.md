@@ -9,5 +9,5 @@
 ---
 
 ### Certification
-![](https://hizliresim.com/CTCVuF)
+![](https://hizliresim.com/CTCVuFraw=True)
 
